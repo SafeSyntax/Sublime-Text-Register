@@ -1,5 +1,5 @@
 
-# <kbd>Click Help > Enter License and Past the license key > click user license</kbd>
+### Click <kbd>Help > Enter License and Past the license key > click user license</kbd>
 
 
 
